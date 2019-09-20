@@ -20,13 +20,12 @@ rm -f \
   /tmp/ls-tree.log \
   /tmp/filter.log
 
-rm -rf repo1 repo2
-
 working_dir=/var/tmp/alex
 
 echo "Starting in $working_dir ..."
 mkdir -p "$working_dir"
 cd "$working_dir"
+rm -rf repo1 repo2
 
 make_repo() {
   repo="$1" ; shift
