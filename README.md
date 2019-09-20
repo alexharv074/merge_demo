@@ -13,6 +13,10 @@ Clone this repo then:
 ▶ . automate
 ```
 
+## Read the code
+
+Here: [./demo.sh](./demo.sh).
+
 ## LICENCE
 
 MIT.
