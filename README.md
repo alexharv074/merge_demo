@@ -4,6 +4,8 @@
 
 This is some code that demos the procedure I documented in [this](https://alexharv074.github.io/2017/10/04/merge-a-git-repository-and-its-history-into-a-subdirectory-of-a-second-git-repository.html) blog post.
 
+Tested on Git 2.17.2. I can't guarantee this works on earlier versions of Git!
+
 ## Usage
 
 Clone this repo then:
